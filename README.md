@@ -15,8 +15,6 @@ yarn start
 
 ## Use Instructions
 
-![Main page instructions](graphics-for-doc/main-page-instructions.png)
-
-![Search page instructions](graphics-for-doc/search-page-instructions.png)
+You can also change state of book by selecting states from dropdown, on down arrow icon in buttom right corner.
 
 Note: The backend API is provided mostly for demonstration purposes, and thus uses a fixed set of cached search results and is limited to a particular set of search terms, which can be found in [SEARCH_TERMS.md](SEARCH_TERMS.md). That list of terms are the _only_ terms that will work with the backend, so don't be surprised if your searches for Square Dancing or History of Paper Towels don't come back with any results.
