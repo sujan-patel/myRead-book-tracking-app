@@ -7,8 +7,8 @@ This app helps the user keep track of books sorted into three shelves: "currentl
 ## Installation Instructions
 
 ```
-git clone https://github.com/zyud/my-reads.git
-cd my-reads
+git clone https://github.com/sujan-patel/myRead-book-tracking-app.git
+cd myRead-book-tracking-app
 yarn install
 yarn start
 ```
